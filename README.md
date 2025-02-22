@@ -11,3 +11,5 @@ Favorites:
 
 Fixed the readme.md by doing nothing. just memeing around. 
 -nope didn't do it
+
+fix typo
